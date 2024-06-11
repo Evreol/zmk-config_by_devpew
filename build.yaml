@@ -14,7 +14,7 @@
 ---
 include:
 
-  - board: nrfmicro_13
+  - board: nice!nano
     shield: tbkmini_left
   - board: nrfmicro_13
     shield: tbkmini_right
